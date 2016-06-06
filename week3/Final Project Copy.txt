@@ -1,0 +1,14 @@
+The project website consists of the major sections...
+Main Page
+    The main page gives an overview of the entire site, its purpose, and its functions. It provides links to all other pages and possibly previews of them.
+
+Vim FAQ "Why Vim?"
+    This section will provide an overview of the benefits of vim and the detriments of emax. Everything will be sourced, wiki style.
+    In addition, this is where the portfolio of vim enthusiests will have their pictures and testimonies to the valors of Vim.
+
+Vim Resources
+    Learning Vim, mastering Vim. All of these things need links.
+
+Vim Battlefield
+    Here is where we provide news on the raging Editor Holy war, along with background knowlege on the war.
+    
