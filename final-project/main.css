@@ -13,3 +13,25 @@ h1 {
     text-align: center;
     font-size: 48px
 }
+
+article {
+    padding: 20px 0 0 20px;
+    background: blue;
+    border: solid black;
+    display: inline-block;
+}
+
+/* Endorsements */
+.endorsed {
+    background-color: red;
+    border: solid black;
+    border-radius: 10%;
+    padding: 20px;
+    display: inline-block;
+}
+.portrait {
+    max-height: 150px;
+    min-height: 150px;
+    max-width: 150px;
+    min-width: 150px;
+}
