@@ -12,7 +12,7 @@ header {
                 rgba(0, 0, 0, 0) 0%,
                 rgba(0, 0, 0, 0) 59%,
                 black 100%),
-            url("img/_colmns.jpg");
+            url("img/colmns.jpg");
     width:100%;
     min-height:256px;
     position: relative;
