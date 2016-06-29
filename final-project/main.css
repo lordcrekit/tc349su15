@@ -18,7 +18,6 @@ article {
     padding: 20px 0 0 20px;
     background: blue;
     border: solid black;
-    display: inline-block;
 }
 
 /* Endorsements */
@@ -28,6 +27,12 @@ article {
     border-radius: 10%;
     padding: 20px;
     display: inline-block;
+
+    max-width: 350px;
+    min-width: 250px;
+
+    max-height: 190px;
+    overflow-scrolling: auto;
 }
 .portrait {
     max-height: 150px;
