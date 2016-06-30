@@ -11,7 +11,7 @@ header {
                 to bottom,
                 rgba(0, 0, 0, 0) 0%,
                 rgba(0, 0, 0, 0) 59%,
-                black 100%),
+                green 100%),
             url("img/colmns.jpg");
     width:100%;
     min-height:256px;
@@ -28,14 +28,19 @@ header {
 
 h1 {
     text-align: center;
-    color: blueviolet;
+    color: green;
     font-size: 48px;
-    text-outline: 5px blue;
+
+    text-shadow:
+            -3px -3px 0 #000,
+            3px -3px 0 #000,
+            -3px 3px 0 #000,
+            3px 3px 0 #000;
 }
 
 article {
     padding: 20px 0 0 20px;
-    background: blue;
+    background: green;
     border: solid black;
 }
 
@@ -52,14 +57,14 @@ input {
 
 /* Endorsements */
 .endorsed {
-    background-color: red;
+    background-color: yellow;
     border: solid black;
     border-radius: 10%;
     padding: 20px;
     display: inline-block;
 
     max-width: 350px;
-    min-width: 250px;
+    min-width: 300px;
 
     max-height: 190px;
     overflow-scrolling: auto;
@@ -69,4 +74,5 @@ input {
     min-height: 150px;
     max-width: 150px;
     min-width: 150px;
+    padding-right: 10px;
 }
