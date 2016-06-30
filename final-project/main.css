@@ -49,6 +49,10 @@ h2 {
             1px 1px 0 #000;
 }
 
+p {
+    background: yellow;
+}
+
 li {
     background: yellow;
 }
@@ -57,18 +61,6 @@ article {
     padding: 20px 0 0 20px;
     background: green;
     border: solid black;
-}
-
-/* Form and Input */
-form {
-    text-align: center;
-    background: lightblue;
-}
-
-input {
-    position: relative;
-    bottom: 0%;
-    left: 0%;
 }
 
 /* Endorsements */
